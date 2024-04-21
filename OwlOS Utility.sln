@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OwlOS Utility", "OwlOS Utility\OwlOS Utility.csproj", "{9DA3CCFF-3E0C-4B72-B5F1-A39A1ADF383A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementy rozwiązania", "Elementy rozwiązania", "{0C89B17E-2ACE-45BE-B97E-FCAF37A4C7A6}"
+	ProjectSection(SolutionItems) = preProject
+		OwlOS Utility\bin\Release\net7.0-windows10.0.17763.0\OwlOS.ico = OwlOS Utility\bin\Release\net7.0-windows10.0.17763.0\OwlOS.ico
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DA3CCFF-3E0C-4B72-B5F1-A39A1ADF383A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DA3CCFF-3E0C-4B72-B5F1-A39A1ADF383A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DA3CCFF-3E0C-4B72-B5F1-A39A1ADF383A}.Debug|x64.ActiveCfg = Debug|x64
+		{9DA3CCFF-3E0C-4B72-B5F1-A39A1ADF383A}.Debug|x64.Build.0 = Debug|x64
+		{9DA3CCFF-3E0C-4B72-B5F1-A39A1ADF383A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DA3CCFF-3E0C-4B72-B5F1-A39A1ADF383A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DA3CCFF-3E0C-4B72-B5F1-A39A1ADF383A}.Release|x64.ActiveCfg = Release|x64
+		{9DA3CCFF-3E0C-4B72-B5F1-A39A1ADF383A}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {863BC8A3-F7D0-42AA-B055-149FF56275A7}
+	EndGlobalSection
+EndGlobal
